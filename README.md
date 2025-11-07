@@ -83,7 +83,7 @@ Aquí están algunos de los proyectos que demuestran mis habilidades en Backend.
       <br>
       <i>Habilidades:</i> <code>Python</code>, <code>Sockets</code>, <code>Multithreading</code>
       <br>
-      <strong><a href="[LINK-AL-REPO-DEL-CHAT]">Ver el Proyecto →</a></strong>
+      <strong><a href="https://github.com/CDenisdev/python-multithreaded-chat">Ver el Proyecto →</a></strong>
     </td>
     <td width="50%">
       <strong>2. Sistema IoT de Detección de Caídas (Python, API)</strong>
@@ -92,7 +92,7 @@ Aquí están algunos de los proyectos que demuestran mis habilidades en Backend.
       <br>
       <i>Habilidades:</i> <code>Python</code>, <code>Asyncio</code>, <code>API</code>, <code>IoT</code>
       <br>
-      <strong><a href="[LINK-AL-REPO-DEL-IOT]">Ver el Proyecto →</a></strong>
+      <strong><a href="https://github.com/CDenisdev/IOTClanHackaton">Ver el Proyecto →</a></strong>
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Aquí están algunos de los proyectos que demuestran mis habilidades en Backend.
       <br>
       <i>Habilidades:</i> <code>Python</code>, <code>OOP</code>, <code>SOLID</code>, <code>Algoritmos</code>
       <br>
-      <strong><a href="[LINK-AL-REPO-DE-RUTAS]">Ver el Proyecto →</a></strong>
+      <strong><a href="https://github.com/CDenisdev/python-dijkstra-oop-refactor">Ver el Proyecto →</a></strong>
     </td>
     <td width="50%">
       <strong>4. Pipeline ETL y Análisis SQL (Python, SQL)</strong>
@@ -112,7 +112,7 @@ Aquí están algunos de los proyectos que demuestran mis habilidades en Backend.
       <br>
       <i>Habilidades:</i> <code>Python</code>, <code>SQL</code>, <code>ETL</code>, <code>Scraping</code>
       <br>
-      <strong><a href="[LINK-AL-REPO-DEL-SCRAPER]">Ver el Proyecto →</a></strong>
+      <strong><a href="https://github.com/CDenisdev/python-sql-etl-book-scraper">Ver el Proyecto →</a></strong>
     </td>
   </tr>
 </table>
